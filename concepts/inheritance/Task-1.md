@@ -1,7 +1,7 @@
 
 ### 1. Write & organise classes which represents each type of inheritance.
 
-### Acceptance Criteria:
+### Acceptance Criteria
 
 * Find out how many types of inheritance are there. 
 * Write code to prove inheritance.
