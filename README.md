@@ -7,17 +7,17 @@ shark.swim();
 }
 }
 class Animal{
-string color;
+String color;
 
 void eat() {
 System.out.println("eats");
 }
-void breath() {
+void breathe() {
 System.out.println("breathes");
 }
 }
 
-class Fish exteds Animal{
+class Fish extends Animal{
 int fins;
 
 void swim(){
