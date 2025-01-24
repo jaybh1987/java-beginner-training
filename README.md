@@ -6,6 +6,7 @@ shark.eat();
 shark.swim();
 }
 }
+//base class
 class Animal{
 String color;
 
@@ -16,7 +17,7 @@ void breathe() {
 System.out.println("breathes");
 }
 }
-
+//derived class
 class Fish extends Animal{
 int fins;
 
