@@ -1,5 +1,5 @@
 public class HybridInheritance {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
 
         Dog myDog = new Dog();
         myDog.name = "Bulldog";
